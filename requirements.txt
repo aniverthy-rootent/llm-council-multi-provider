@@ -1,0 +1,2 @@
+# Standard library only for the LLM calls.
+python-dotenv>=1.0
